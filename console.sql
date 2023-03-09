@@ -1,0 +1,1 @@
+truncate table boekhouding_sebas.boekjaar_2023.abnamro_2023;
